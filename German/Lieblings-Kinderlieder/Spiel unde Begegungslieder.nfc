@@ -1,0 +1,31 @@
+Filetype: Flipper NFC device
+Version: 4
+# Device type can be ISO14443-3A, ISO14443-3B, ISO14443-4A, ISO14443-4B, ISO15693-3, FeliCa, NTAG/Ultralight, Mifare Classic, Mifare DESFire, SLIX, ST25TB
+Device type: SLIX
+# UID is common for all formats
+UID: E0 04 03 50 0D F5 7C E5
+# ISO15693-3 specific data
+# Data Storage Format Identifier
+DSFID: 00
+# Application Family Identifier
+AFI: 00
+# IC Reference - Vendor specific meaning
+IC Reference: 03
+# Lock Bits
+Lock DSFID: false
+Lock AFI: false
+# Number of memory blocks, valid range = 1..256
+Block Count: 8
+# Size of a single memory block, valid range = 01...20 (hex)
+Block Size: 04
+Data Content: 28 2A 95 86 E5 F1 F0 10 56 64 A9 47 C0 32 CC 06 5D E7 BE E1 A1 F4 FD 88 50 0D 5F 46 BE 69 69 BF
+# Block Security Status: 01 = locked, 00 = not locked
+Security Status: 00 00 00 00 00 00 00 00
+# SLIX specific data
+# Passwords are optional. If a password is omitted, a default value will be used
+Password Privacy: 7F FD 6E 5B
+Password Destroy: FF FF FF FF
+Password EAS: 00 00 00 00
+Privacy Mode: false
+# SLIX Lock Bits
+Lock EAS: false
