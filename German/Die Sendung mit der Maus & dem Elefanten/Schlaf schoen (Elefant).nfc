@@ -22,6 +22,8 @@ Data Content: 75 D3 C8 96 31 EC DC AF 20 6C 2C C2 0B FA 7B AB 76 8D 98 C2 E4 8A 
 # Block Security Status: 01 = locked, 00 = not locked
 Security Status: 00 00 00 00 00 00 00 00
 # SLIX specific data
+# SLIX capabilities field affects emulation modes. Possible options: Default, AcceptAllPasswords
+Capabilities: Default
 # Passwords are optional. If a password is omitted, a default value will be used
 Password Privacy: 7F FD 6E 5B
 Password Destroy: 0F 0F 0F 0F
