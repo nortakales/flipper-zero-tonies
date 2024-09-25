@@ -22,10 +22,11 @@ Data Content: F4 8D 55 64 4B 9F F0 E6 C6 13 5A 4E 05 99 EA CF 43 86 04 29 1A 02 
 # Block Security Status: 01 = locked, 00 = not locked
 Security Status: 00 00 00 00 00 00 00 00
 # SLIX specific data
+Capabilities: Default
 # Passwords are optional. If a password is omitted, a default value will be used
 Password Privacy: 7F FD 6E 5B
 Password Destroy: 0F 0F 0F 0F
 Password EAS: 00 00 00 00
-Privacy Mode: true
+Privacy Mode: false
 # SLIX Lock Bits
 Lock EAS: false
