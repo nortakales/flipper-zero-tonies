@@ -5,6 +5,7 @@ shopt -s globstar
 REQUIRED_PATTERNS=(
     "Filetype: Flipper NFC device"
     "Version: 4"
+    "Device type: SLIX"
     "UID:( [A-F0-9]{2}){8}"
     "DSFID: 00"
     "AFI: 00"
@@ -32,11 +33,16 @@ for filename in **/*.nfc; do
         fi
     done
 
-    # The likelihood of two blocks of 00 in data content is almsot impossible,
+    # The likelihood of two blocks of 00 in data content is almost impossible,
     # so use that as a check for when the full data is not read
     if [ ! -z "$(grep -P "Data Content:( [A-F0-9]{2})* 00 00( [A-F0-9]{2})*" "$filename")" ]; then
         echo $filename
         echo "    Full data not read"
+    fi
+
+    if [ ! -z "$(grep -P "\r" "$filename")" ]; then
+        echo $filename
+        echo "    Has carriage return characters"
     fi
 
 done
