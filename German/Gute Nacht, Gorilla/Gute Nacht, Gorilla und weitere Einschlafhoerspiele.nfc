@@ -1,0 +1,32 @@
+Filetype: Flipper NFC device
+Version: 4
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic or ISO15693
+Device type: SLIX
+# UID is common for all formats
+UID: E0 04 03 50 1B 94 61 72
+# Data Storage Format Identifier
+DSFID: 00
+# Application Family Identifier
+AFI: 00
+IC Reference: 03
+# Lock Bits
+Lock DSFID: false
+Lock AFI: false
+# Number of memory blocks, usually 0 to 256
+Block Count: 8
+# Size of a single memory block, usually 4
+Block Size: 04
+Data Content: 18 53 99 D7 A4 DE 3D DC 84 08 0B 95 90 DC BC 73 C2 A4 58 6C 33 7B 00 47 45 AB 09 07 E1 AF 36 A4
+# First byte: DSFID (0x01) / AFI (0x02) / EAS (0x04) / PPL (0x08) lock info, others: block lock info
+Security Status: 00 00 00 00 00 00 00 00 00
+# Subtype of this card (0 = ISO15693, 1 = SLIX, 2 = SLIX-S, 3 = SLIX-L, 4 = SLIX2)
+Subtype: 03
+# SLIX-L specific data
+Capabilities: Default
+# Passwords are optional. If a password is omitted, a default value will be used
+Password Privacy: 7F FD 6E 5B
+Password Destroy: 0F 0F 0F 0F
+Password EAS: 00 00 00 00
+Privacy Mode: false
+# SLIX Lock Bits
+Lock EAS: false
