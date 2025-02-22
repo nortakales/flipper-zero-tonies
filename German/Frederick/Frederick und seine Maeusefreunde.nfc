@@ -18,9 +18,7 @@ Block Count: 8
 Block Size: 04
 Data Content: 96 88 63 53 70 36 83 9B DD 27 AD AC F8 E0 30 DE EA B4 A2 08 07 C2 D0 28 2D 51 E0 90 34 92 8B C1
 # First byte: DSFID (0x01) / AFI (0x02) / EAS (0x04) / PPL (0x08) lock info, others: block lock info
-Security Status: 00 00 00 00 00 00 00 00 00
-# Subtype of this card (0 = ISO15693, 1 = SLIX, 2 = SLIX-S, 3 = SLIX-L, 4 = SLIX2)
-Subtype: 03
+Security Status: 00 00 00 00 00 00 00 00
 # SLIX-L specific data
 Capabilities: Default
 # Passwords are optional. If a password is omitted, a default value will be used
