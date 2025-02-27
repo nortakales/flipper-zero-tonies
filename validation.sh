@@ -29,9 +29,18 @@ FORBIDDEN_PATTERNS=(
   "Subtype: ([0-9]){2}"
 )
 
+FILE_AND_DIR_ALLOWED_CHARACTERS="A-Za-z0-9().,!%&+ -";
+FILE_AND_DIR_REGEX="^\.[$FILE_AND_DIR_ALLOWED_CHARACTERS/]+\/[$FILE_AND_DIR_ALLOWED_CHARACTERS]+\.nfc$"
+
 # Use process substitution so that ERROR_FOUND is updated in the main shell.
 while read -r filename; do
   content=$(cat "$filename")
+
+  if ! echo "$filename" | awk "/$FILE_AND_DIR_REGEX/ { found=1 } END { exit !found }"; then
+    echo "$filename"
+    echo "    Filename has invalid characters or missing .nfc extension. Allowed characters are $FILE_AND_DIR_ALLOWED_CHARACTERS"
+    ERROR_FOUND=1
+  fi
 
   for pattern in "${REQUIRED_PATTERNS[@]}"; do
     if ! echo "$content" | awk "/$pattern/ { found=1 } END { exit !found }"; then
