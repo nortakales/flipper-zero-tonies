@@ -11,3 +11,6 @@ Pull requests welcome!
 **Pull Requests**
 
 If you want to add new Tonies, it will help to run `validation.sh`. If it detects something wrong with any of the files, it will tell you, and you can fix it before submitting the PR. Otherwise it will output no message at all. I will also run this from time to time and clean up files as needed.
+
+You can use the `figures_name_tool.py` to generate the correct name for your file and place them in the correct directory.
+To use this tool you need to have python installed and install all requirements with `pip install -r requirements.txt`
