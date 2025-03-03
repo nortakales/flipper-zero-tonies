@@ -56,7 +56,7 @@ def load_new_file():
 def choose_language_show_series(*args):
     """ function to show the series of the selected language """
     lang = selected_language.get()
-    language_series = [entry for entry in data if entry.get("language") == lang and entry.get("hash")]
+    language_series = [entry for entry in data if entry.get("language") == lang and (entry["hash"] or entry["episodes"].find("Set") >= 0)]
     unique_series = sorted(set(entry.get("series") for entry in language_series), reverse=False)
     dropdown_series["values"] = unique_series
     dropdown_series["state"] = "readonly" if unique_series else "disabled"
@@ -76,7 +76,7 @@ def show_episode_details(entry):
         img_data = Image.open(BytesIO(response.content))
 
         # scale image to fit into the window
-        img_data.thumbnail((200, 200))
+        img_data.thumbnail((400, 400))
         img = ImageTk.PhotoImage(img_data)
 
         img_label = tk.Label(details_window, image=img)
@@ -117,8 +117,18 @@ def choose_series_show_episodes(*args):
         widget.destroy()
     
     # filter the data
-    filtered_episodes = [entry for entry in data if entry["language"] == lang and entry["series"] == series and entry["hash"]] 
-    
+    episodes = [entry for entry in data if entry["language"] == lang and entry["series"] == series and (entry["hash"] or entry["episodes"].find("Set") >= 0)]
+
+    filtered_episodes = []
+    for entry in episodes:
+        if entry["episodes"].find("Set") >= 0 and "tracks" in entry:
+            for track in entry["tracks"]:
+                 new_entry = entry.copy()
+                 new_entry["episodes"] = track
+                 filtered_episodes.append(new_entry)
+        else:
+             filtered_episodes.append(entry)
+
     # create the grid
     row , col = 0, 0
     for entry in filtered_episodes:
@@ -139,7 +149,7 @@ def choose_series_show_episodes(*args):
         # episode-title
         episode_label = tk.Label(scroll_frame, text=entry["episodes"], wraplength=100, justify="center")
         episode_label.grid(row=row + 1, column=col, padx=10, pady=5)
-        
+    
         col += 1
         if col >= COLS:  # Max 3 Columns
             col = 0
