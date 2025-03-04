@@ -56,7 +56,7 @@ def load_new_file():
 def choose_language_show_series(*args):
     """ function to show the series of the selected language """
     lang = selected_language.get()
-    language_series = [entry for entry in data if entry.get("language") == lang and (entry["hash"] or entry["episodes"].find("Set") >= 0)]
+    language_series = [entry for entry in data if entry.get("language") == lang and (entry["hash"] or (entry["episodes"] is not None and entry["episodes"].find("Set") >= 0))]
     unique_series = sorted(set(entry.get("series") for entry in language_series), reverse=False)
     dropdown_series["values"] = unique_series
     dropdown_series["state"] = "readonly" if unique_series else "disabled"
@@ -117,7 +117,7 @@ def choose_series_show_episodes(*args):
         widget.destroy()
     
     # filter the data
-    episodes = [entry for entry in data if entry["language"] == lang and entry["series"] == series and (entry["hash"] or entry["episodes"].find("Set") >= 0)]
+    episodes = [entry for entry in data if entry["language"] == lang and entry["series"] == series and (entry["hash"] or (entry["episodes"] is not None and entry["episodes"].find("Set") >= 0))]
 
     filtered_episodes = []
     for entry in episodes:
@@ -170,7 +170,7 @@ except requests.RequestException as e:
     data = []
 
 # filter the data by all languages containing figures
-languages = [entry.get("language") for entry in data if entry.get("hash")]
+languages = [entry.get("language") for entry in data if entry.get("hash") and entry.get("episodes") is not None]
 filtered_languages = [lang for lang in languages if isinstance(lang, str)]
 language_counts = Counter(filtered_languages)
 sorted_languages = sorted(language_counts.keys(), key=lambda x: language_counts[x], reverse=True)
