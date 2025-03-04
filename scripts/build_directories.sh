@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Building directory markdown files for known tonies"
+echo "Building directory markdown files for known Tonies"
 
 while read -r LANG_DIR; do
     NFC_FILES=()
@@ -11,7 +11,12 @@ while read -r LANG_DIR; do
     FOLDER=$(basename "${LANG_DIR}")
     NFC_FILES_COUNT=${#NFC_FILES[@]}
 
-    echo "${FOLDER} has ${NFC_FILES_COUNT}"
+    echo "${FOLDER} has ${NFC_FILES_COUNT}" 
+    if [ $NFC_FILES_COUNT = 0 ]; then
+        echo "    Skiping..."
+        continue
+    fi
+    
     {
       echo "# ${FOLDER} Tonies (${NFC_FILES_COUNT} files)"
       echo ""
