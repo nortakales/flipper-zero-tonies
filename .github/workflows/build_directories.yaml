@@ -1,0 +1,26 @@
+name: Build directory markdown files
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  known_tonies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Build directories
+        run: ./scripts/build_directories.sh
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: "*/*.md"
+          commit_message: Auto update directory markdown files
