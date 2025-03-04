@@ -17,7 +17,7 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Build directories
-        run: ./build_directories.sh
+        run: ./scripts/build_directories.sh
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
