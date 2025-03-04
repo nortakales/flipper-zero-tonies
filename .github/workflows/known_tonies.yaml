@@ -1,0 +1,26 @@
+name: build known tonies for each language
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  known_tonies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: build known tonies
+        run: ./build_known_tonies.sh
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: '*/*.md'
+          commit_message: update language specific known tonies list
