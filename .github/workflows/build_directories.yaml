@@ -1,4 +1,4 @@
-name: build known tonies for each language
+name: Build directory markdown files
 
 on:
   push:
@@ -11,16 +11,16 @@ jobs:
       contents: write
 
     steps:
-      - name: checkout
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
 
-      - name: build known tonies
-        run: ./build_known_tonies.sh
+      - name: Build directories
+        run: ./build_directories.sh
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: '*/*.md'
-          commit_message: update language specific known tonies list
+          file_pattern: "*/*.md"
+          commit_message: Auto update directory markdown files

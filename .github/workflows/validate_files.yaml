@@ -1,10 +1,10 @@
-name: Validate NFC Files
+name: Validate NFC files
 
 on:
   push:
   workflow_dispatch:
   pull_request:
-    types: [ opened, synchronize, reopened ]
+    types: [opened, synchronize, reopened]
 
 jobs:
   validation:
@@ -14,5 +14,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: validate
-        run: ./validation.sh
+      - name: Run validation
+        run: ./validate_files.sh
