@@ -97,9 +97,14 @@ def show_episode_details(entry):
         series_folder = generate_valid_filename(series)
         file_name = generate_valid_filename(episode)
         details_window.destroy()  # close the window
-        destination_path = os.path.join(language_folder, series_folder,)
+        destination_path = os.path.join("..", language_folder, series_folder,)
         os.makedirs(destination_path, exist_ok=True) # create the folder if it does not exist
-        shutil.copy(file_path, os.path.join(destination_path, file_name + ".nfc"))
+        try:
+            shutil.copy(file_path, os.path.join(destination_path, file_name + ".nfc"))
+        except shutil.SameFileError:
+            # file already exists
+            messagebox.showinfo("Error", f"The file {file_name} already exists in {language_folder}/{series_folder}")
+            return
         messagebox.showinfo("Selection confirmed", f"The Tonie is stored under {language_folder}/{series_folder}/{file_name}")
 
     # Add OK-Button
