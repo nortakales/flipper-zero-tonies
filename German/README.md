@@ -252,8 +252,8 @@
 | Rolf Zuckowski | [Rolfs Hasengeschichte.nfc](Rolf%20Zuckowski/Rolfs%20Hasengeschichte.nfc) |
 | Rolf Zuckowski | [Rolfs neue Vogelhochzeit.nfc](Rolf%20Zuckowski/Rolfs%20neue%20Vogelhochzeit.nfc) |
 | Schaun das Schaf | [Badetag und drei weitere schafsinnige Geschichten.nfc](Schaun%20das%20Schaf/Badetag%20und%20drei%20weitere%20schafsinnige%20Geschichten.nfc) |
+| Schlummerbande | [Gutenachtgeschichten - Schlaf schoen, kleiner Schlummerbaer.nfc](Schlummerbande/Gutenachtgeschichten%20-%20Schlaf%20schoen,%20kleiner%20Schlummerbaer.nfc) |
 | Schlummerbande | [Nachtlicht Tonie - Schlummerbaer.nfc](Schlummerbande/Nachtlicht%20Tonie%20-%20Schlummerbaer.nfc) |
-| Schlummerbande | [Schlummerbande - Gutenachtgeschichten - Schlaf schoen, kleiner Schlummerbaer.nfc](Schlummerbande/Schlummerbande%20-%20Gutenachtgeschichten%20-%20Schlaf%20schoen,%20kleiner%20Schlummerbaer.nfc) |
 | Scooby-Doo | [Scooby-Doo.nfc](Scooby-Doo/Scooby-Doo.nfc) |
 | Sesamstrasse | [Elmos Mitmachmusik.nfc](Sesamstrasse/Elmos%20Mitmachmusik.nfc) |
 | Sesamstrasse | [Ernies Mitmachmaerchen.nfc](Sesamstrasse/Ernies%20Mitmachmaerchen.nfc) |
