@@ -28,6 +28,6 @@ Capabilities: Default
 Password Privacy: 7F FD 6E 5B
 Password Destroy: 0F 0F 0F 0F
 Password EAS: 00 00 00 00
-Privacy Mode: true
+Privacy Mode: false
 # SLIX Lock Bits
 Lock EAS: false
