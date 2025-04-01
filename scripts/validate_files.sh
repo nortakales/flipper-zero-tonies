@@ -58,9 +58,10 @@ while read -r filename; do
     fi
   done
 
-  # The likelihood of two blocks of 00 in data content is almost impossible,
-  # so use that as a check for when the full data is not read
-  if echo "$content" | awk '/Data Content:( [A-F0-9]{2})* 00 00( [A-F0-9]{2})*/ { found=1 } END { exit !found }'; then
+  # It turns out that there is at least one valid Tonies with `00 00 00 00` in the data
+  # so now we can just check for one more `00` block than that one and hope it still catches
+  # partially read Tonies
+  if echo "$content" | awk '/Data Content:( [A-F0-9]{2})* 00 00 00 00 00( [A-F0-9]{2})*/ { found=1 } END { exit !found }'; then
     echo "$filename"
     echo "    Full data not read"
     ERROR_FOUND=1
