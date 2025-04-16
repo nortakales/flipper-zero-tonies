@@ -293,7 +293,7 @@
 | Sesamstrasse | [Elmos Mitmachmusik.nfc](Sesamstrasse/Elmos%20Mitmachmusik.nfc) |
 | Sesamstrasse | [Ernies Mitmachmaerchen.nfc](Sesamstrasse/Ernies%20Mitmachmaerchen.nfc) |
 | Sesamstrasse | [Kruemelmonsters Mitmampfspass.nfc](Sesamstrasse/Kruemelmonsters%20Mitmampfspass.nfc) |
-| Sing Kinderlieder | [Bagger Mats + seine Freunde – Die schoensten Fahrzeuglieder.nfc](Sing%20Kinderlieder/Bagger%20Mats%20+%20seine%20Freunde%20–%20Die%20schoensten%20Fahrzeuglieder.nfc) |
+| Sing Kinderlieder | [Bagger Mats + seine Freunde - Die schoensten Fahrzeuglieder.nfc](Sing%20Kinderlieder/Bagger%20Mats%20+%20seine%20Freunde%20-%20Die%20schoensten%20Fahrzeuglieder.nfc) |
 | Sing Kinderlieder | [Milo, das Muellauto-Kind + seine Freunde - Abenteuer in der grossen Stadt.nfc](Sing%20Kinderlieder/Milo,%20das%20Muellauto-Kind%20+%20seine%20Freunde%20-%20Abenteuer%20in%20der%20grossen%20Stadt.nfc) |
 | Spirit | [SPIRIT - Frei und Ungezaehmt.nfc](Spirit/SPIRIT%20-%20Frei%20und%20Ungezaehmt.nfc) |
 | SpongeBob Schwammkopf | [SpongeBob Schwammkopf - Der ferngesteuerte Fahrschueler und weitere Abenteuer.nfc](SpongeBob%20Schwammkopf/SpongeBob%20Schwammkopf%20-%20Der%20ferngesteuerte%20Fahrschueler%20und%20weitere%20Abenteuer.nfc) |
