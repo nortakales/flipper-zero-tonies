@@ -202,7 +202,7 @@
 | Hurra Kinderlieder | [Hurra Kinderlieder - Best of.nfc](Hurra%20Kinderlieder/Hurra%20Kinderlieder%20-%20Best%20of.nfc) |
 | Ich - einfach unverbesserlich | [Ich - Einfach unverbesserlich 4.nfc](Ich%20-%20einfach%20unverbesserlich/Ich%20-%20Einfach%20unverbesserlich%204.nfc) |
 | Ich - einfach unverbesserlich | [Ich - einfach unverbesserlich 1.nfc](Ich%20-%20einfach%20unverbesserlich/Ich%20-%20einfach%20unverbesserlich%201.nfc) |
-| Jan & Henry | [Jan & Henry – 8 Rätsel und 2 Lieder.nfc](Jan%20&%20Henry/Jan%20&%20Henry%20–%208%20Rätsel%20und%202%20Lieder.nfc) |
+| Jan & Henry | [Jan & Henry - 8 Raetsel und 2 Lieder.nfc](Jan%20&%20Henry/Jan%20&%20Henry%20-%208%20Raetsel%20und%202%20Lieder.nfc) |
 | Jan Tenner | [Jan Tenner - Planet der 1000 Wunder.nfc](Jan%20Tenner/Jan%20Tenner%20-%20Planet%20der%201000%20Wunder.nfc) |
 | Janosch | [Ich mach dich gesund, sagte der Baer.nfc](Janosch/Ich%20mach%20dich%20gesund,%20sagte%20der%20Baer.nfc) |
 | Janosch | [Oh, wie schoen ist Panama.nfc](Janosch/Oh,%20wie%20schoen%20ist%20Panama.nfc) |
