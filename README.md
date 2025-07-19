@@ -19,11 +19,10 @@ We have a directory of Tonies in this repo for each language:
 
 Pull requests are welcome!
 
-If you want to add new Tonies, it will help to run `validation.sh` before opening a pull request.
+If you want to add new Tonies, it will help to run `scripts/validate_files.sh` before opening a pull request.
 If it detects something wrong with any of the files, it will tell you, and you can fix it before submitting the PR.
 Otherwise, it will output no message at all.
 It will also run when your PR is opened automatically.
-
 
 You can use the `figures_name_tool.py` to generate the correct name for your file and place them in the correct directory.
 To use this tool you need to have python installed and install all requirements with `pip install -r requirements.txt`
