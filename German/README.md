@@ -155,7 +155,7 @@
 | Disney | [Die Schoene und das Biest.nfc](Disney/Die%20Schoene%20und%20das%20Biest.nfc) |
 | Disney | [Die Unglaublichen.nfc](Disney/Die%20Unglaublichen.nfc) |
 | Disney | [Dornroeschen.nfc](Disney/Dornroeschen.nfc) |
-| Disney | [Ducktales - Woohoo! & Die Suche nach Atlantis.nfc.nfc](Disney/Ducktales%20-%20Woohoo!%20&%20Die%20Suche%20nach%20Atlantis.nfc.nfc) |
+| Disney | [Ducktales - Woohoo! & Die Suche nach Atlantis.nfc](Disney/Ducktales%20-%20Woohoo!%20&%20Die%20Suche%20nach%20Atlantis.nfc) |
 | Disney | [Dumbo.nfc](Disney/Dumbo.nfc) |
 | Disney | [Encanto.nfc](Disney/Encanto.nfc) |
 | Disney | [Fantasia.nfc](Disney/Fantasia.nfc) |
