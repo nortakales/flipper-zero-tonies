@@ -86,7 +86,7 @@
 | Der Grueffelo | [Der Grueffelo.nfc](Der%20Grueffelo/Der%20Grueffelo.nfc) |
 | Der Loewe in dir | [Der Loewe in dir und andere Geschichten.nfc](Der%20Loewe%20in%20dir/Der%20Loewe%20in%20dir%20und%20andere%20Geschichten.nfc) |
 | Der Raeuber Hotzenplotz | [Der Raeuber Hotzenplotz.nfc](Der%20Raeuber%20Hotzenplotz/Der%20Raeuber%20Hotzenplotz.nfc) |
-| Der Raeuber Hotzenplotz | [Schluss mit der Raeuberei.nfc](Der%20Raeuber%20Hotzenplotz/Schluss%20mit%20der%20Raeuberei.nfc) |
+| Der Raeuber Hotzenplotz | [Hotzenplotz 3.nfc](Der%20Raeuber%20Hotzenplotz/Hotzenplotz%203.nfc) |
 | Der Regenbogenfisch | [Der Regenbogenfisch.nfc](Der%20Regenbogenfisch/Der%20Regenbogenfisch.nfc) |
 | Der Sternenmann | [Lieder und Hoerspiel zur guten Nacht.nfc](Der%20Sternenmann/Lieder%20und%20Hoerspiel%20zur%20guten%20Nacht.nfc) |
 | Der Traumzauberbaum | [Geschichtenlieder.nfc](Der%20Traumzauberbaum/Geschichtenlieder.nfc) |
