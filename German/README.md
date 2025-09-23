@@ -5,7 +5,7 @@
 | Folder | Filename |
 |--------|----------|
 | 100% Wolf | [100% Wolf.nfc](100%%20Wolf/100%%20Wolf.nfc) |
-| Adventskalender | [Adventskalender 2025 – Floeckchen und die verschwundenen Weihnachtslichter.nfc](Adventskalender/Adventskalender%202025%20–%20Floeckchen%20und%20die%20verschwundenen%20Weihnachtslichter.nfc) |
+| Adventskalender | [Adventskalender 2025 - Floeckchen und die verschwundenen Weihnachtslichter.nfc](Adventskalender/Adventskalender%202025%20-%20Floeckchen%20und%20die%20verschwundenen%20Weihnachtslichter.nfc) |
 | Affenzahn | [Die Abenteuer von Affenzahn.nfc](Affenzahn/Die%20Abenteuer%20von%20Affenzahn.nfc) |
 | Alea Aquarius | [Die Magie der Nixen.nfc](Alea%20Aquarius/Die%20Magie%20der%20Nixen.nfc) |
 | Als Ela das All eroberte | [Als Ela das All eroberte.nfc](Als%20Ela%20das%20All%20eroberte/Als%20Ela%20das%20All%20eroberte.nfc) |
