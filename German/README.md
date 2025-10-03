@@ -457,7 +457,7 @@
 | Vom Fuchs, der ein Reh sein wollte | [Vom Fuchs, der ein Reh sein wollte.nfc](Vom%20Fuchs,%20der%20ein%20Reh%20sein%20wollte/Vom%20Fuchs,%20der%20ein%20Reh%20sein%20wollte.nfc) |
 | WAS IST WAS Junior | [Bauernhof.nfc](WAS%20IST%20WAS%20Junior/Bauernhof.nfc) |
 | WAS IST WAS | [Dinosaurier - Ausgestorbene Tiere.nfc](WAS%20IST%20WAS/Dinosaurier%20-%20Ausgestorbene%20Tiere.nfc) |
-| WAS IST WAS | [Fussball - 1, 2, 3, ... Tor!.nfc.nfc](WAS%20IST%20WAS/Fussball%20-%201,%202,%203,%20...%20Tor!.nfc.nfc) |
+| WAS IST WAS | [Fussball - 1, 2, 3, ... Tor!.nfc](WAS%20IST%20WAS/Fussball%20-%201,%202,%203,%20...%20Tor!.nfc) |
 | WAS IST WAS | [Pinguine - Tiere im Zoo.nfc](WAS%20IST%20WAS/Pinguine%20-%20Tiere%20im%20Zoo.nfc) |
 | WAS IST WAS | [Raumfahrt - Der Mond.nfc](WAS%20IST%20WAS/Raumfahrt%20-%20Der%20Mond.nfc) |
 | WAS IST WAS | [Wale und Delfine - Geheimnis Tiefsee.nfc](WAS%20IST%20WAS/Wale%20und%20Delfine%20-%20Geheimnis%20Tiefsee.nfc) |
