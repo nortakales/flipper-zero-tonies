@@ -74,7 +74,12 @@ while read -r filename; do
     ERROR_FOUND=1
   fi
 
-
-done < <(find . -type f -name "*.nfc")
+done < <(find . -type f \
+  -not -path './scripts/*' \
+  -not -path './.github/*' \
+  -not -path './.git/*' \
+  -not -path './.gitignore' \
+  -not -path './README.md' \
+  -not -path './*/README.md')
 
 exit $ERROR_FOUND
