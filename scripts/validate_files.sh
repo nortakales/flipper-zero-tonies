@@ -30,7 +30,8 @@ FORBIDDEN_PATTERNS=(
 )
 
 FILE_AND_DIR_ALLOWED_CHARACTERS="A-Za-z0-9().,!%&+ -";
-FILE_AND_DIR_REGEX="^\.[$FILE_AND_DIR_ALLOWED_CHARACTERS/]+\/[$FILE_AND_DIR_ALLOWED_CHARACTERS]+\.nfc$"
+# Not the most elegant regex, but ensure files are at least 2 directories deep
+FILE_AND_DIR_REGEX="^\.\/(English|German|French)\/[$FILE_AND_DIR_ALLOWED_CHARACTERS/]+\/[$FILE_AND_DIR_ALLOWED_CHARACTERS]+\.nfc$"
 
 # Use process substitution so that ERROR_FOUND is updated in the main shell.
 while read -r filename; do
@@ -38,7 +39,7 @@ while read -r filename; do
 
   if ! echo "$filename" | awk "/$FILE_AND_DIR_REGEX/ { found=1 } END { exit !found }"; then
     echo "$filename"
-    echo "    Filename has invalid characters or missing .nfc extension. Allowed characters are $FILE_AND_DIR_ALLOWED_CHARACTERS"
+    echo "    Filename has invalid characters, missing .nfc extension, or is not at least 2 directories deep (e.g. English/Paw Patrol/). Allowed characters are $FILE_AND_DIR_ALLOWED_CHARACTERS"
     ERROR_FOUND=1
   fi
 
