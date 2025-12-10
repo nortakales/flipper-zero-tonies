@@ -204,7 +204,7 @@
 | Disney | [Lilo & Stitch.nfc](Disney/Lilo%20&%20Stitch.nfc) |
 | Disney | [Merida - Legende der Highlands.nfc](Disney/Merida%20-%20Legende%20der%20Highlands.nfc) |
 | Disney | [Mickys grosses Weihnachtsfest.nfc](Disney/Mickys%20grosses%20Weihnachtsfest.nfc) |
-| Disney | [Mickys total verruecktes Fusballspiel.nfc](Disney/Mickys%20total%20verruecktes%20Fusballspiel.nfc) |
+| Disney | [Mickys total verruecktes Fussballspiel.nfc](Disney/Mickys%20total%20verruecktes%20Fussballspiel.nfc) |
 | Disney | [Mulan.nfc](Disney/Mulan.nfc) |
 | Disney | [Pocahontas.nfc](Disney/Pocahontas.nfc) |
 | Disney | [Rapunzel - Neu verfoehnt.nfc](Disney/Rapunzel%20-%20Neu%20verfoehnt.nfc) |
@@ -222,7 +222,7 @@
 | Disney | [Vaiana.nfc](Disney/Vaiana.nfc) |
 | Disney | [Vampirina - Das ist ja zum Flattern & drei weitere Geschichten.nfc](Disney/Vampirina%20-%20Das%20ist%20ja%20zum%20Flattern%20&%20drei%20weitere%20Geschichten.nfc) |
 | Disney | [Wicked.nfc](Disney/Wicked.nfc) |
-| Disney | [Winnie Puuh auf groser Reise.nfc](Disney/Winnie%20Puuh%20auf%20groser%20Reise.nfc) |
+| Disney | [Winnie Puuh auf grosser Reise.nfc](Disney/Winnie%20Puuh%20auf%20grosser%20Reise.nfc) |
 | Disney | [Wish.nfc](Disney/Wish.nfc) |
 | Disney | [Zoomania 1 & 2.nfc](Disney/Zoomania%201%20&%202.nfc) |
 | Doc McStuffins, Spielzeugaerztin | [Buh machst du! & 3 weitere Geschichten.nfc](Doc%20McStuffins,%20Spielzeugaerztin/Buh%20machst%20du!%20&%203%20weitere%20Geschichten.nfc) |
@@ -335,7 +335,7 @@
 | Lieblings-Kinderlieder | [Halloween & Spuk.nfc](Lieblings-Kinderlieder/Halloween%20&%20Spuk.nfc) |
 | Lieblings-Kinderlieder | [Jahreszeitenlieder.nfc](Lieblings-Kinderlieder/Jahreszeitenlieder.nfc) |
 | Lieblings-Kinderlieder | [Karnevalslieder.nfc](Lieblings-Kinderlieder/Karnevalslieder.nfc) |
-| Lieblings-Kinderlieder | [Kindgartenlieder.nfc](Lieblings-Kinderlieder/Kindgartenlieder.nfc) |
+| Lieblings-Kinderlieder | [Kindergartenlieder.nfc](Lieblings-Kinderlieder/Kindergartenlieder.nfc) |
 | Lieblings-Kinderlieder | [Reiselieder.nfc](Lieblings-Kinderlieder/Reiselieder.nfc) |
 | Lieblings-Kinderlieder | [Schlaflieder 2.nfc](Lieblings-Kinderlieder/Schlaflieder%202.nfc) |
 | Lieblings-Kinderlieder | [Schlaflieder.nfc](Lieblings-Kinderlieder/Schlaflieder.nfc) |
@@ -372,7 +372,7 @@
 | MIRA und das fliegende Haus | [MIRA und das fliegende Haus - Ich bin cool!.nfc](MIRA%20und%20das%20fliegende%20Haus/MIRA%20und%20das%20fliegende%20Haus%20-%20Ich%20bin%20cool!.nfc) |
 | MIRA und das fliegende Haus | [MIRA und das fliegende Haus - Ich bin schoen!.nfc](MIRA%20und%20das%20fliegende%20Haus/MIRA%20und%20das%20fliegende%20Haus%20-%20Ich%20bin%20schoen!.nfc) |
 | MIRA und das fliegende Haus | [MIRA und das fliegende Haus - Ich liebe mich!.nfc](MIRA%20und%20das%20fliegende%20Haus/MIRA%20und%20das%20fliegende%20Haus%20-%20Ich%20liebe%20mich!.nfc) |
-| Marvel Spidey und seine Super-Freunde | [Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteue.nfc](Marvel%20Spidey%20und%20seine%20Super-Freunde/Spidey%20und%20seine%20Super-Freunde%20-%20Das%20Spidey%20Team%20&%203%20weitere%20spannende%20Abenteue.nfc) |
+| Marvel Spidey und seine Super-Freunde | [Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer.nfc](Marvel%20Spidey%20und%20seine%20Super-Freunde/Spidey%20und%20seine%20Super-Freunde%20-%20Das%20Spidey%20Team%20&%203%20weitere%20spannende%20Abenteuer.nfc) |
 | Marvel Spidey und seine Super-Freunde | [Spidey und seine Super-Freunde - Doc Ocks Superoktopus & 3 weitere spannende Abenteuer.nfc](Marvel%20Spidey%20und%20seine%20Super-Freunde/Spidey%20und%20seine%20Super-Freunde%20-%20Doc%20Ocks%20Superoktopus%20&%203%20weitere%20spannende%20Abenteuer.nfc) |
 | Marvel Spidey und seine Super-Freunde | [Spidey und seine Super-Freunde - Kobzilla & 3 weitere spannende Abenteuer.nfc](Marvel%20Spidey%20und%20seine%20Super-Freunde/Spidey%20und%20seine%20Super-Freunde%20-%20Kobzilla%20&%203%20weitere%20spannende%20Abenteuer.nfc) |
 | Marvel Spidey und seine Super-Freunde | [Spidey und seine Super-Freunde - Raketen-Rhino & 3 weitere spannende Abenteuer.nfc](Marvel%20Spidey%20und%20seine%20Super-Freunde/Spidey%20und%20seine%20Super-Freunde%20-%20Raketen-Rhino%20&%203%20weitere%20spannende%20Abenteuer.nfc) |
@@ -389,7 +389,7 @@
 | Miraculous | [Der Betrueger  - Der Valentinstag.nfc](Miraculous/Der%20Betrueger%20%20-%20Der%20Valentinstag.nfc) |
 | Miraculous | [Miraculous - Aller Anfang ist schwer.nfc](Miraculous/Miraculous%20-%20Aller%20Anfang%20ist%20schwer.nfc) |
 | Mog, der vergessliche Kater | [Die schoensten Geschichten.nfc](Mog,%20der%20vergessliche%20Kater/Die%20schoensten%20Geschichten.nfc) |
-| My Little Pony | [Eine neue Generation.nfc](My%20Little%20Pony/Eine%20neue%20Generation.nfc) |
+| My Little Pony | [Das Original-Hoerspiel zum Film.nfc](My%20Little%20Pony/Das%20Original-Hoerspiel%20zum%20Film.nfc) |
 | Nasreddin Hodscha | [Seine ersten Abenteuer.nfc](Nasreddin%20Hodscha/Seine%20ersten%20Abenteuer.nfc) |
 | Ohrenbaer | [Mulles Zaubersteinchen.nfc](Ohrenbaer/Mulles%20Zaubersteinchen.nfc) |
 | Ostwind | [Pferde verstehen mit Ostwind.nfc](Ostwind/Pferde%20verstehen%20mit%20Ostwind.nfc) |
