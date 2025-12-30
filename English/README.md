@@ -75,7 +75,6 @@
 | Other | [Blues Clues and You.nfc](Other/Blues%20Clues%20and%20You.nfc) |
 | Other | [Brown Bear and Friends.nfc](Other/Brown%20Bear%20and%20Friends.nfc) |
 | Other | [Carmen Sandiego.nfc](Other/Carmen%20Sandiego.nfc) |
-| Other | [Chris Kratt.nfc](Other/Chris%20Kratt.nfc) |
 | Other | [Curious George.nfc](Other/Curious%20George.nfc) |
 | Other | [Dino Ranch.nfc](Other/Dino%20Ranch.nfc) |
 | Other | [Doggyland.nfc](Other/Doggyland.nfc) |
@@ -113,3 +112,4 @@
 | Tonies Originals | [Favorite Childrens Songs - Bedtime Songs.nfc](Tonies%20Originals/Favorite%20Childrens%20Songs%20-%20Bedtime%20Songs.nfc) |
 | Tonies Originals | [Nap Time - Nature Sounds.nfc](Tonies%20Originals/Nap%20Time%20-%20Nature%20Sounds.nfc) |
 | Tonies Originals | [Potty Training.nfc](Tonies%20Originals/Potty%20Training.nfc) |
+| Wild Kratts | [Chris Kratt.nfc](Wild%20Kratts/Chris%20Kratt.nfc) |
