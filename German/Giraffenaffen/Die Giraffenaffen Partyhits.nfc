@@ -3,7 +3,7 @@ Version: 4
 # Device type can be ISO14443-3A, ISO14443-3B, ISO14443-4A, ISO14443-4B, ISO15693-3, FeliCa, NTAG/Ultralight, Mifare Classic, Mifare DESFire, SLIX, ST25TB
 Device type: SLIX
 # UID is common for all formats
-UID: E0 04 03 50 12 EC C2 39
+UID: E0 04 03 50 28 1C 14 60
 # ISO15693-3 specific data
 # Data Storage Format Identifier
 DSFID: 00
@@ -18,7 +18,7 @@ Lock AFI: false
 Block Count: 8
 # Size of a single memory block, valid range = 01...20 (hex)
 Block Size: 04
-Data Content: 03 BF EF 8C DD 75 9B 09 A2 4C EB 00 24 11 A6 EF 18 69 D9 E8 A4 00 7F 64 BB 9E 51 7B 51 88 2A EE
+Data Content: FD B5 90 21 5E C3 23 C6 55 32 94 8B DB 46 0D ED A2 66 82 CF 26 03 96 74 89 69 A1 EE 47 8D 7D FC
 # Block Security Status: 01 = locked, 00 = not locked
 Security Status: 00 00 00 00 00 00 00 00
 # SLIX specific data
