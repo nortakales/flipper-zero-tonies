@@ -18,7 +18,7 @@ Lock AFI: false
 Block Count: 8
 # Size of a single memory block, valid range = 01...20 (hex)
 Block Size: 04
-Data Content: 91 4B 39 FD 7E 6A D5 DC BF 47 9B DE 2D DB 5F CD 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Data Content: 91 4B 39 FD 7E 6A D5 DC BF 47 9B DE 2D DB 5F CD 35 99 98 CC 69 B3 EC FD 63 E2 75 90 C3 03 6E 52
 # Block Security Status: 01 = locked, 00 = not locked
 Security Status: 00 00 00 00 00 00 00 00
 # SLIX specific data
