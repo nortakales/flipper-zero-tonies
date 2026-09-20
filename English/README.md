@@ -140,11 +140,11 @@
 | Other | [The Wonderful Wizard of Oz.nfc](Other/The%20Wonderful%20Wizard%20of%20Oz.nfc) |
 | Other | [Tiny Chef.nfc](Other/Tiny%20Chef.nfc) |
 | Other | [Wicked.nfc](Other/Wicked.nfc) |
-| PAW Patrol Jungle Pups | [Marshall.nfc](PAW%20Patrol%20Jungle%20Pups/Marshall.nfc) |
-| PAW Patrol Jungle Pups | [Skye.nfc](PAW%20Patrol%20Jungle%20Pups/Skye.nfc) |
+| PAW Patrol Jungle Pups | [Jungle Pups Chase.nfc](PAW%20Patrol%20Jungle%20Pups/Jungle%20Pups%20Chase.nfc) |
+| PAW Patrol Jungle Pups | [Jungle Pups Marshall.nfc](PAW%20Patrol%20Jungle%20Pups/Jungle%20Pups%20Marshall.nfc) |
+| PAW Patrol Jungle Pups | [Jungle Pups Skye.nfc](PAW%20Patrol%20Jungle%20Pups/Jungle%20Pups%20Skye.nfc) |
 | Paw Patrol | [Chase.nfc](Paw%20Patrol/Chase.nfc) |
 | Paw Patrol | [Everest.nfc](Paw%20Patrol/Everest.nfc) |
-| Paw Patrol | [Jungle Pups Chase.nfc](Paw%20Patrol/Jungle%20Pups%20Chase.nfc) |
 | Paw Patrol | [Liberty.nfc](Paw%20Patrol/Liberty.nfc) |
 | Paw Patrol | [Marshall.nfc](Paw%20Patrol/Marshall.nfc) |
 | Paw Patrol | [Rex.nfc](Paw%20Patrol/Rex.nfc) |
