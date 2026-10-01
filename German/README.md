@@ -85,7 +85,7 @@
 | Clever Tonies/GEOlino | [Alles ueber Meere + Ozeane.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Meere%20+%20Ozeane.nfc) |
 | Clever Tonies/GEOlino | [Alles ueber Sterne & Planeten.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Sterne%20&%20Planeten.nfc) |
 | Clever Tonies/GEOlino | [Alles ueber Vulkane.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Vulkane.nfc) |
-| Clever Tonies/GEOlino | [Alles ueber die Arktis + Antarktis.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20die%20Arktis%20+%20Antarktis.nfc) |
+| Clever Tonies/GEOlino | [Alles ueber die Arktis & Antarktis.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20die%20Arktis%20&%20Antarktis.nfc) |
 | Clever Tonies/GEOlino | [GEOlino Mini - Alles ueber Polizei, Feuerwehr und Rettung.nfc](Clever%20Tonies/GEOlino/GEOlino%20Mini%20-%20Alles%20ueber%20Polizei,%20Feuerwehr%20und%20Rettung.nfc) |
 | Clever Tonies | [Little People, Big Dreams - Frida Kahlo, Rosa Parks, Marie Curie, Amelia Earhart.nfc](Clever%20Tonies/Little%20People,%20Big%20Dreams%20-%20Frida%20Kahlo,%20Rosa%20Parks,%20Marie%20Curie,%20Amelia%20Earhart.nfc) |
 | Clever Tonies | [Wundervolle Welt der Dinosaurier und der Urzeit.nfc](Clever%20Tonies/Wundervolle%20Welt%20der%20Dinosaurier%20und%20der%20Urzeit.nfc) |
