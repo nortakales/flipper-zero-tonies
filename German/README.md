@@ -83,7 +83,7 @@
 | Checker Tobi | [Der grosse Gesundheits-Check Viren, Fitness, Vitamine - Das check ich fuer euch!.nfc](Checker%20Tobi/Der%20grosse%20Gesundheits-Check%20Viren,%20Fitness,%20Vitamine%20-%20Das%20check%20ich%20fuer%20euch!.nfc) |
 | Clever Tonies/ADAC | [ADAC - Meine erste Verkehrsschule.nfc](Clever%20Tonies/ADAC/ADAC%20-%20Meine%20erste%20Verkehrsschule.nfc) |
 | Clever Tonies/GEOlino | [Alles ueber Meere + Ozeane.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Meere%20+%20Ozeane.nfc) |
-| Clever Tonies/GEOlino | [Alles ueber Sterne + Planeten.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Sterne%20+%20Planeten.nfc) |
+| Clever Tonies/GEOlino | [Alles ueber Sterne & Planeten.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Sterne%20&%20Planeten.nfc) |
 | Clever Tonies/GEOlino | [Alles ueber Vulkane.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20Vulkane.nfc) |
 | Clever Tonies/GEOlino | [Alles ueber die Arktis + Antarktis.nfc](Clever%20Tonies/GEOlino/Alles%20ueber%20die%20Arktis%20+%20Antarktis.nfc) |
 | Clever Tonies/GEOlino | [GEOlino Mini - Alles ueber Polizei, Feuerwehr und Rettung.nfc](Clever%20Tonies/GEOlino/GEOlino%20Mini%20-%20Alles%20ueber%20Polizei,%20Feuerwehr%20und%20Rettung.nfc) |
