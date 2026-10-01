@@ -526,7 +526,7 @@
 | Pokemon | [Pikachu.nfc](Pokemon/Pikachu.nfc) |
 | Pokemon | [Schiggy.nfc](Pokemon/Schiggy.nfc) |
 | Positives Denken mit Elefant Greta | [Geschichten fuer mehr Selbstsicherheit und Achtsamkeit.nfc](Positives%20Denken%20mit%20Elefant%20Greta/Geschichten%20fuer%20mehr%20Selbstsicherheit%20und%20Achtsamkeit.nfc) |
-| Prinzessin Lillifee | [Gute-Nacht-Geschichten - Die verzauberten Seerosen+Die goldene Perle.nfc](Prinzessin%20Lillifee/Gute-Nacht-Geschichten%20-%20Die%20verzauberten%20Seerosen+Die%20goldene%20Perle.nfc) |
+| Prinzessin Lillifee | [Gute-Nacht-Geschichten - Die verzauberten Seerosen & Die goldene Perle.nfc](Prinzessin%20Lillifee/Gute-Nacht-Geschichten%20-%20Die%20verzauberten%20Seerosen%20&%20Die%20goldene%20Perle.nfc) |
 | Prinzessin Lillifee | [Prinzessin Lillifee.nfc](Prinzessin%20Lillifee/Prinzessin%20Lillifee.nfc) |
 | Pummel & Friends | [Das Pummeleinhorn - Der Herr der Donuts & Alles versalzen.nfc](Pummel%20&%20Friends/Das%20Pummeleinhorn%20-%20Der%20Herr%20der%20Donuts%20&%20Alles%20versalzen.nfc) |
 | Pumuckl | [Das Weihnachtsgeschenk & Der erste Schnee.nfc](Pumuckl/Das%20Weihnachtsgeschenk%20&%20Der%20erste%20Schnee.nfc) |
