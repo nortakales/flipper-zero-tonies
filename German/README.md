@@ -299,7 +299,7 @@
 | Gabbys Dollhouse | [Das Raumschiff & Gabby hat einen Schluckauf.nfc](Gabbys%20Dollhouse/Das%20Raumschiff%20&%20Gabby%20hat%20einen%20Schluckauf.nfc) |
 | Gabbys Dollhouse | [Der Cupcake-Baum & Die Puppenhausdetektive.nfc](Gabbys%20Dollhouse/Der%20Cupcake-Baum%20&%20Die%20Puppenhausdetektive.nfc) |
 | Gabbys Dollhouse | [Eroeffnungsfeier im Puppenhaus + Kitty Fees Uebernachtungsparty.nfc](Gabbys%20Dollhouse/Eroeffnungsfeier%20im%20Puppenhaus%20+%20Kitty%20Fees%20Uebernachtungsparty.nfc) |
-| Gabbys Dollhouse | [Gabby, ich habe die Kaetzchen geschrumpft! + Der Eisbaer Pete.nfc](Gabbys%20Dollhouse/Gabby,%20ich%20habe%20die%20Kaetzchen%20geschrumpft!%20+%20Der%20Eisbaer%20Pete.nfc) |
+| Gabbys Dollhouse | [Gabby, ich habe die Kaetzchen geschrumpft! & Der Eisbaer Pete.nfc](Gabbys%20Dollhouse/Gabby,%20ich%20habe%20die%20Kaetzchen%20geschrumpft!%20&%20Der%20Eisbaer%20Pete.nfc) |
 | Geschichten vom Loewen | [Die Geschichte vom Loewen, der nicht schreiben konnte.nfc](Geschichten%20vom%20Loewen/Die%20Geschichte%20vom%20Loewen,%20der%20nicht%20schreiben%20konnte.nfc) |
 | Gigantosaurus | [Mazus Mutprobe.nfc](Gigantosaurus/Mazus%20Mutprobe.nfc) |
 | Giraffenaffen | [Die Giraffenaffen Lieblingslieder.nfc](Giraffenaffen/Die%20Giraffenaffen%20Lieblingslieder.nfc) |
